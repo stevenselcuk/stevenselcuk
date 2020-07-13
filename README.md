@@ -1,8 +1,8 @@
 ### Henlo fren 👋 It's Steven 😏
 
-{ 🍅 Ad 🍅}
+{🍅 Ad }
 Tired of distraction? [Download🚀](https://apps.apple.com/us/app/pomosh/id1515791898) Pomosh the Pomodoro assistant right now 🙌
-{🍅 Ad 🍅}
+{🍅 Ad }
 
 - 💼 I am deputy night shift manager at [Tabby Cat 🐈,LLC](https://tabbythecat.com) 
 - 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
