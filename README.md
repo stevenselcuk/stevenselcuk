@@ -8,12 +8,12 @@
 
 pre-defined Github things
 
-- 🔭 I’m currently working on Festival Animals but 🤫 shhhh it's secret. 
-- 🌱 I’m currently learning stuff. It depends on my mood. 
-- 👯 I’m looking to collaborate on nah I'm good
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+[X] 🔭 I’m currently working on Festival Animals it's an iOS app but 🤫 shhhh it's secret. 
+[X] 🌱 I’m currently learning stuff. It depends on my mood. 
+[X] 👯 I’m looking to collaborate on nah I'm good
+[ ] 🤔 I’m looking for help with ...
+[ ] 💬 Ask me about 
+[ ] 📫 How to reach me: ...
+[ ] 😄 Pronouns: 
+[ ] ⚡ Fun fact: ...
 
