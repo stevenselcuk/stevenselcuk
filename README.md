@@ -6,7 +6,7 @@
 
 
 
-Here are some ideas to get you started:
+pre-defined Github things
 
 - 🔭 I’m currently working on Festival Animals but 🤫 shhhh it's secret. 
 - 🌱 I’m currently learning stuff. It depends on my mood. 
