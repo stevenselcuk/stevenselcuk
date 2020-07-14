@@ -16,7 +16,7 @@ pre-defined Github things
 - [X] 👯 I’m looking to collaborate on nah I'm good
 - [ ] 🤔 I’m looking for help with ...
 - [ ] 💬 Ask me about aerospace, filmmaking, illustration. not coding.
-- [ ] 📫 How to reach me: Drop a line  steven@tabbythecat.com
+- [ ] 📫 How to reach me: steven@tabbythecat.com
 - [ ] 😄 Pronouns: 
-- [ ] ⚡ Fun fact: ...
+- [ ] ⚡ Fun fact: I can talk about every single episode of CSI:Las Vegas and X Files just gimme the timecode
 
