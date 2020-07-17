@@ -22,5 +22,5 @@ pre-defined Github things
 - [X] 💬 Ask me about aerospace, filmmaking, illustration. please not coding.
 - [X] 📫 How to reach me: steven@tabbythecat.com
 - [ ] 😄 Pronouns: 
-- [X] ⚡ Fun fact: I can talk about every single episode of CSI:Las Vegas and X Files just gimme the timecode
+- [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
