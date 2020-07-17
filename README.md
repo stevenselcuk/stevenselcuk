@@ -6,10 +6,6 @@
 
 ### Henlo fren 👋 It's Steven 😏
 
-{🍅 Ad } <br>
-Tired of distraction? [Download🚀](https://apps.apple.com/us/app/pomosh/id1515791898) Pomosh the Pomodoro assistant right now 🙌
-{🍅 Ad } <br>
-
 I am le developer who's focused on iOS & macOS apps nowadays. Sometime JavaScript (React & React Native). It's just ok. Well. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪. 
 
 And also 👇🏻
@@ -17,6 +13,13 @@ And also 👇🏻
 - 💼 I am deputy night shift manager at [Tabby Cat 🐈,LLC](https://tabbythecat.com)
 - 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 - 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
+
+
+
+{🍅 Ad } <br>
+Tired of distraction? [Download🚀](https://apps.apple.com/us/app/pomosh/id1515791898) Pomosh the Pomodoro assistant right now 🙌  <br>
+{🍅 Ad }
+
 
 
 pre-defined Github things
