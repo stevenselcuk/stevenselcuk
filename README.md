@@ -14,7 +14,7 @@ I am le developer who's focused on iOS & macOS apps nowadays. Sometime JavaScrip
 
 And also 👇🏻
 
-- 💼 I am deputy night shift manager at [Tabby Cat 🐈,LLC](https://tabbythecat.com)  (It's my firm, Sell code)
+- 💼 I am deputy night shift manager at [Tabby Cat 🐈,LLC](https://tabbythecat.com)
 - 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 - 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
 
