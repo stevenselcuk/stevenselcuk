@@ -1,8 +1,14 @@
+
+<div align="center">
+	<img src="https://imgur.com/XTV5t6I.jpg" width="200" height="200" />
+</div>
+
+
 ### Henlo fren 👋 It's Steven 😏
 
-{🍅 Ad }
+{🍅 Ad } <br>
 Tired of distraction? [Download🚀](https://apps.apple.com/us/app/pomosh/id1515791898) Pomosh the Pomodoro assistant right now 🙌
-{🍅 Ad }
+{🍅 Ad } <br>
 
 I am le developer who's focused on iOS & macOS apps nowadays. Sometime JavaScript (React & React Native). It's just ok. Well. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪. 
 
