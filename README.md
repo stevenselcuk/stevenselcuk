@@ -30,6 +30,6 @@ pre-defined Github things
 - [ ] 🤔 I’m looking for help with ...
 - [X] 💬 Ask me about aerospace, filmmaking, illustration. please not coding.
 - [X] 📫 How to reach me: steven@tabbythecat.com
-- [ ] 😄 Pronouns: 
+- [ ] 😄 Pronouns: stee-vuh n jay seljuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
