@@ -33,5 +33,3 @@ pre-defined Github things
 - [ ] 😄 Pronouns: stee-vuh n jay SEL-juuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="20" height="20"/></p>
-
