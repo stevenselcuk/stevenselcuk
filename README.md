@@ -6,7 +6,7 @@
 
 ### Henlo fren 👋 It's Steven 😏
 
-I am  <i>le développeur</i> who's focused on iOS & macOS apps nowadays. Sometime JavaScript (React & React Native). It's just ok. Well. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪. 
+I am  <i>le développeur</i> who's focused on iOS & macOS apps nowadays. Sometimes JavaScript (React & React Native). It's just ok. Well. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪. 
 
 And also 👇🏻
 
