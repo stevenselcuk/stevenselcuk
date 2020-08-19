@@ -10,16 +10,11 @@ I am  <i>le développeur</i> who's focused on iOS & macOS apps nowadays. Sometim
 
 And also 👇🏻
 
-- 💼 I am deputy night shift manager at [Tabby Cat 🐈,LLC](https://tabbythecat.com)
-- 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
-- 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
+💼 I am deputy night shift manager at [Tabby Cat 🐈,LLC](https://tabbythecat.com)
 
+📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 
-
-{🍅 Ad } <br>
-Tired of distraction? [Download🚀](https://apps.apple.com/us/app/pomosh/id1515791898) Pomosh the Pomodoro assistant right now 🙌  <br>
-{🍅 Ad }
-
+🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
 
 
 pre-defined Github things
