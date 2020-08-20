@@ -17,6 +17,12 @@ And also 👇🏻
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
 
 
+### Last work
+
+- [react-native-get-values](https://github.com/stevenselcuk/react-native-get-values) : Read values from your iOS & Android project config files in React Native (JS & ObjectiveC  & Java)
+- [PenClip](https://apps.apple.com/us/app/penclip/id1526811408) : Drawing app for iOS ✍🏻 (Swift&SwiftUI)
+
+
 ### pre-defined Github things
 
 - [X] 🔭 I’m currently working on Festival Animals it's an iOS app but 🤫 shhhh it's secret. 
