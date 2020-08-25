@@ -17,11 +17,11 @@ And also 👇🏻
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
 
 
-### Featured stuff
+### Featured
 
-- [react-native-get-values](https://github.com/stevenselcuk/react-native-get-values) : Read values from your iOS & Android project config files in React Native
-- [PenClip](https://apps.apple.com/us/app/penclip/id1526811408) : Drawing app for iOS ✍🏻 (Swift&SwiftUI)
-
+- [🛠react-native-get-values](https://github.com/stevenselcuk/react-native-get-values) : Read values from your iOS & Android project config files in React Native
+- [✍🏻PenClip](https://apps.apple.com/us/app/penclip/id1526811408) : Drawing app for iOS
+- [🍅Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898) : Pomodoro Productivity Timer
 
 ### pre-defined Github things
 
