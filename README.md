@@ -19,9 +19,10 @@ And also 👇🏻
 
 ### Featured
 
-- [🛠react-native-get-values](https://github.com/stevenselcuk/react-native-get-values) : Read values from your iOS & Android project config files in React Native
-- [✍🏻PenClip](https://apps.apple.com/us/app/penclip/id1526811408) : Drawing app for iOS
-- [🍅Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898) : Pomodoro Productivity Timer
+- [📦 react-native-ask-for-review](https://github.com/stevenselcuk/react-native-ask-for-review): Ask for ⭐️⭐️⭐️⭐️⭐️ nicely!
+- [📦 react-native-get-values](https://github.com/stevenselcuk/react-native-get-values): Read values from your iOS & Android project config files in React Native
+- [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
+- [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer
 
 ### pre-defined Github things
 
