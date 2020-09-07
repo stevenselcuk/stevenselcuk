@@ -1,8 +1,5 @@
 
-<div align="center">
-	<img src="https://imgur.com/l8F8lCc.gif"  height="200" />
-</div>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="l8F8lCc"><a href="https://imgur.com/l8F8lCc">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Henlo fren 👋 It's Steven 😏
 
