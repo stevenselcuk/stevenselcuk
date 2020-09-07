@@ -1,11 +1,9 @@
 <div align="center">
 	<img src="https://imgur.com/XTV5t6I.png" height="200" />
-	<h1><strong>🍅 Pomosh</strong> • Pomodoro technique asistant for 📱 iOS and ⌚️ WatchOS•</h1>
+	<h1>Henlo fren 👋 It's Steven 😏</h1>
 	
 </div>
 <br>
-
-### Henlo fren 👋 It's Steven 😏
 
 I am  <i>le développeur</i> who's focused on iOS & macOS apps nowadays. Sometimes JavaScript (React & React Native). It's just ok. Well. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪. 
 
