@@ -1,5 +1,9 @@
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="l8F8lCc"><a href="https://imgur.com/l8F8lCc">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<div align="center">
+	<img src="https://imgur.com/XTV5t6I.png" height="200" />
+	<h1><strong>🍅 Pomosh</strong> • Pomodoro technique asistant for 📱 iOS and ⌚️ WatchOS•</h1>
+	
+</div>
+<br>
 
 ### Henlo fren 👋 It's Steven 😏
 
