@@ -16,15 +16,15 @@ And also 👇🏻
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
 
 
-### Featured
+## Featured
 
 
-- iOS & macOS Apps
+#### iOS & macOS Apps
 
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
 
-- React Native Packages
+#### React Native Packages
 
 - [📦 react-native-app-promoter](https://github.com/stevenselcuk/react-native-app-promoter) Promote your "other" app with SKOverlay
 - [📦 react-native-ask-for-review](https://github.com/stevenselcuk/react-native-ask-for-review): Ask for ⭐️⭐️⭐️⭐️⭐️ nicely!
