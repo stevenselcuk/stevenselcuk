@@ -18,10 +18,18 @@ And also 👇🏻
 
 ### Featured
 
-- [📦 react-native-ask-for-review](https://github.com/stevenselcuk/react-native-ask-for-review): Ask for ⭐️⭐️⭐️⭐️⭐️ nicely!
-- [📦 react-native-get-values](https://github.com/stevenselcuk/react-native-get-values): Read values from your iOS & Android project config files in React Native
+
+- iOS & macOS Apps
+
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
+
+- React Native Packages
+
+- [📦 react-native-app-promoter](https://github.com/stevenselcuk/react-native-app-promoter) Promote your "other" app with SKOverlay
+- [📦 react-native-ask-for-review](https://github.com/stevenselcuk/react-native-ask-for-review): Ask for ⭐️⭐️⭐️⭐️⭐️ nicely!
+- [📦 react-native-get-values](https://github.com/stevenselcuk/react-native-get-values): Read values from your iOS & Android project config files in React Native
+
 
 ### pre-defined Github things
 
