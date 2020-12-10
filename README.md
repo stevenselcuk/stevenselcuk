@@ -21,9 +21,9 @@ And also 👇🏻
 
 #### iOS & macOS Apps
 
+- [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recoder with PiP camera view and sound for tutors
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
-- [📼 Rek](https://github.com/thetabbycat/Rek): Screen recoder with PiP camera view and sound
 
 
 #### React Native Packages
