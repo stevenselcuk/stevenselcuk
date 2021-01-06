@@ -44,3 +44,6 @@ And also 👇🏻
 - [ ] 😄 Pronouns: stee-vuh n jay SEL-juuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
+
+![Metrics](https://metrics.lecoq.io/stevenselcuk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
