@@ -24,6 +24,7 @@ And also 👇🏻
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recoder with PiP camera view and sound for tutors
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
+- [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game (only with Turkish Card Set)
 
 
 #### React Native Packages
@@ -44,6 +45,4 @@ And also 👇🏻
 - [ ] 😄 Pronouns: stee-vuh n jay SEL-juuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
-
-![Metrics](https://metrics.lecoq.io/stevenselcuk?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
