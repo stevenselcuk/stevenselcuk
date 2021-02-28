@@ -21,7 +21,8 @@ And also 👇🏻
 
 #### iOS & macOS Apps
 
-- [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recoder with PiP camera view and sound for tutors
+- [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recoder with PiP camera view and sound for reaction videos
+- [🐈 TabbyNote](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Micro note-taking app on your menubar for macOS [Repo](https://github.com/thetabbycat/TabbyNote)
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
 - [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game (only with Turkish Card Set)
