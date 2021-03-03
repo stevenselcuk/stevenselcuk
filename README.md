@@ -49,12 +49,10 @@ And also 👇🏻
 ### Favorite GIF
 
  <img
-      src="https://imgur.com/BZ0k7hT.gif"
+      src="https://i.imgur.com/BZ0k7hT.gif"
       height="520"
       alt="🐈 "
       title="🐈 "
     />
-
-
 
 
