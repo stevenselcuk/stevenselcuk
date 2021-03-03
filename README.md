@@ -48,13 +48,6 @@ And also 👇🏻
 
 ### Favorite GIF
 
- <img
-      src="http://i.imgur.com/j201bRxh.gif"
-      height="520"
-      alt="🐈 cat gif here"
-      title="•••••• 🐈  Favorite GIF ••••••"
-    />
-
-
+[Imgur](https://imgur.com/j201bRx)
 
 
