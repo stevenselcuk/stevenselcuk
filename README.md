@@ -46,4 +46,13 @@ And also 👇🏻
 - [ ] 😄 Pronouns: stee-vuh n jay SEL-juuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
+### Favorite GIF
+
+ <img
+      src="hhttps://imgur.com/j201bRx.gif"
+      height="520"
+      alt="🐈 cat gif here"
+      title="•••••• 🐈  Favorite GIF ••••••"
+    />
+
 
