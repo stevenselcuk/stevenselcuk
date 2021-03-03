@@ -49,7 +49,7 @@ And also 👇🏻
 ### Favorite GIF
 
  <img
-      src="https://i.imgur.com/BZ0k7hT.gif"
+      src="https://github.com/stevenselcuk/stevenselcuk/blob/master/cat.gif"
       height="520"
       alt="🐈 "
       title="🐈 "
