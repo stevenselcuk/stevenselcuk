@@ -48,6 +48,13 @@ And also 👇🏻
 
 ### Favorite GIF
 
-[Imgur](https://imgur.com/j201bRx)
+ <img
+      src="https://imgur.com/BZ0k7hT.gif"
+      height="520"
+      alt="🐈 "
+      title="🐈 "
+    />
+
+
 
 
