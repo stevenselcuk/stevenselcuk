@@ -26,7 +26,7 @@ And also 👇🏻
 - [🐈 TabbyNote](https://apps.apple.com/us/app/tabbynote-micro-note-taking/id1555858947?ref=github): Micro note-taking app on your menubar for macOS [👉 See Repo](https://github.com/thetabbycat/TabbyNote)
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
-- [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game (only with Turkish Card Set)
+- [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game for iOS (only with Turkish Card Set)
 
 
 #### React Native Packages
