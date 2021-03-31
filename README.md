@@ -38,7 +38,7 @@ And also 👇🏻
 
 ### pre-defined Github things
 
-- [X] 🔭 I’m currently working on Festival Animals it's an iOS app but 🤫 shhhh it's secret. 
+- [X] 🔭 I’m currently working on getting Balloon Pilot License 
 - [X] 🌱 I’m currently learning stuff. It depends on my mood. 
 - [X] 👯 I’m looking to collaborate on nah I'm good
 - [ ] 🤔 I’m looking for help with ...
