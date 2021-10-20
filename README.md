@@ -43,7 +43,7 @@ And also 👇🏻
 - [X] 👯 I’m looking to collaborate on nah I'm good
 - [ ] 🤔 I’m looking for help with ...
 - [X] 💬 Ask me about aerospace, filmmaking, illustration. please not coding.
-- [X] 📫 How to reach me: steven@tabbythecat.com
+- [X] 📫 How to reach me: stevenjselcuk@gmail.com
 - [ ] 😄 Pronouns: stee-vuh n jay SEL-juuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
