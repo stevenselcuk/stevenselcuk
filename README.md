@@ -5,11 +5,11 @@
 </div>
 <br>
 
-I am  <i>le développeur</i> who's focused on iOS & macOS apps nowadays. Sometimes JavaScript (React & React Native). It's just ok. Well. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪. 
+I am <i>le développeur</i> who's focused on trying to digitalize General Aviation cockpits and MRO hangars. Mostly working on iOS & macOS project with Swift but yeah somedays, if I slept well, I like JavaScript (like NodeJS backend & React & React Native). It's just ok. I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and a documentary project now) and home-chef 🔪.  Well. That's it I guess.
 
 And also 👇🏻
 
-💼 I am deputy night shift manager at [🐈 Tabby Cat](https://tabbythecat.com)
+💼 I am deputy night shift manager at [🐈 Tabby Cat](https://tabbythecat.com) 
 
 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 
@@ -38,13 +38,13 @@ And also 👇🏻
 
 ### pre-defined Github things
 
-- [X] 🔭 I’m currently working on getting Balloon Pilot License 
-- [X] 🌱 I’m currently learning stuff. It depends on my mood. 
-- [X] 👯 I’m looking to collaborate on nah I'm good
-- [ ] 🤔 I’m looking for help with ...
-- [X] 💬 Ask me about aerospace, filmmaking, illustration. please not coding.
+- [X] 🔭 I’m currently working on getting my A&P and PPL license 
+- [X] 🌱 I’m currently learning AR & VR tech stuff
+- [X] 👯 I’m looking to collaborate on [TBD]
+- [X] 🤔 I’m looking for help with Pomosh's open issues
+- [X] 💬 Ask me about aerospace, filmmaking, illustration. Please not coding.
 - [X] 📫 How to reach me: stevenjselcuk@gmail.com
-- [ ] 😄 Pronouns: stee-vuh n jay SEL-juuk
+- [X] 😄 Pronouns: stee-vuh n jay SEL-juuk
 - [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
 
 ### Favorite GIF
