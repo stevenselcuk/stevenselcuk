@@ -22,6 +22,7 @@ And also 👇🏻
 #### iOS & macOS Apps
 
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recoder with PiP camera view and sound for reaction videos
+- [🤖 Machine](https://apps.apple.com/us/app/machine/id1601032749): Your new speech-to-text transcription assistant.
 - [📋 PasteBoard](https://github.com/stevenselcuk/PasteBoard): PasteBoard manager app with Finder Toolbar extension
 - [🐈 TabbyNote](https://apps.apple.com/us/app/tabbynote-micro-note-taking/id1555858947?ref=github): Micro note-taking app on your menubar for macOS
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
@@ -45,7 +46,7 @@ And also 👇🏻
 - [X] 💬 Ask me about aerospace, filmmaking, illustration. Please not coding.
 - [X] 📫 How to reach me: stevenjselcuk@gmail.com
 - [X] 😄 Pronouns: stee-vuh n jay SEL-juuk
-- [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just gimme the timecode
+- [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just give the timecode
 
 ### Favorite GIF
 
