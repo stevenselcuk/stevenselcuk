@@ -5,7 +5,7 @@
 </div>
 <br>
 
-I am <i>le développeur</i> who's focused on creating General Aviation apps for pilots and aircraft mechanics. Mostly working on iOS & macOS project with Swift / SwiftUI but somedays, if I slept well, I like JavaScript (like NodeJS backend & React & React Native & some GraphQL). I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and working on a documentary project now) and home-chef 🔪.  Well. That's it I guess.
+I am <i>le développeur</i> who's focused on creating General Aviation apps for pilots and aircraft mechanics. Mostly working on iOS & macOS projects with Swift / SwiftUI but somedays, if I slept well, I like JavaScript (like NodeJS backend & React & React Native & some GraphQL). I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and working on a documentary project now) and home-chef 🔪.  Well. That's it I guess.
 
 And also 👇🏻
 
