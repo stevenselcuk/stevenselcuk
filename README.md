@@ -5,7 +5,7 @@
 </div>
 <br>
 
-I am <i>le développeur</i> who's focused on creating General Aviation apps for pilots and aircraft mechanics. Mostly working on iOS & macOS projects with Swift / SwiftUI but somedays, if I slept well, I like JavaScript (like NodeJS backend & React & React Native & some GraphQL). I am an aviation 🛩 consultant too. and indie Filmmaker 🎥 (yes, I have short films and working on a documentary project now) and home-chef 🔪.  Well. That's it I guess.
+I am <i>le développeur</i> who's focused on creating General Aviation apps for pilots and aircraft mechanics. Mostly working on iOS & macOS projects with Swift / SwiftUI but somedays, if I slept well, I like JavaScript (Fav stack NodeJS/Express/GraphQL/MongoDB/React & React Native). I am an aviation technical consultant, indie Filmmaker 🎥 and also home-chef 🔪.  Well. That's it I guess.
 
 And also 👇🏻
 
@@ -13,8 +13,9 @@ And also 👇🏻
 
 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 
-🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) cuz why not?
+🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) because why not?
 
+📍 Digital Nomad : Now on ultimate Balkan Tour
 
 ## Featured
 
@@ -39,14 +40,14 @@ And also 👇🏻
 
 ### pre-defined Github things
 
-- [X] 🔭 I’m currently working on getting my A&P and PPL license 
-- [X] 🌱 I’m currently learning AR & VR tech stuff
+- [X] 🔭 I’m currently working on getting my FAA Airframe & Powerplant License with Private Pilot License
+- [X] 🌱 I’m currently learning Unity
 - [X] 👯 I’m looking to collaborate on [TBD]
 - [X] 🤔 I’m looking for help with Pomosh's open issues
-- [X] 💬 Ask me about aerospace, filmmaking, illustration. Please not coding.
+- [X] 💬 Ask me about aerospace, filmmaking, illustration.
 - [X] 📫 How to reach me: stevenjselcuk@gmail.com
 - [X] 😄 Pronouns: stee-vuh n jay SEL-juuk
-- [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files just give the timecode
+- [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files
 
 ### Favorite GIF
 
