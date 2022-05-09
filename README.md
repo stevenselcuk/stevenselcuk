@@ -30,6 +30,9 @@ And also 👇🏻
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
 - [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game for iOS (only with Turkish Card Set)
 
+#### Projects
+
+- [🍸 Barmaid](https://github.com/stevenselcuk/Barmaid): SwiftUI ready macOS menubar app boilerplate. Based on Pomosh & REK. Just add water.
 
 #### React Native Packages
 
