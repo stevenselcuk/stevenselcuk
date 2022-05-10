@@ -9,13 +9,13 @@ I am <i>le développeur</i> who's focused on creating General Aviation apps for 
 
 And also 👇🏻
 
-💼 I am deputy night shift manager at [🐈 Tabby Cat](https://tabbythecat.com) 
+💼 I am deputy graveyard shift manager at [🐈 Tabby Cat](https://tabbythecat.com) 
 
 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) because why not?
 
-📍 Digital Nomad : Now on ultimate Balkan Tour
+📍 Digital Nomad : Now on ultimate Balkan Tour. Are you too? Join us! DigitalNomad Community 👉🏻 [🧳 NomadKnows](https://nomadknows.com) 
 
 ## Featured
 
