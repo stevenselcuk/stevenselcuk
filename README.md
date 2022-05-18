@@ -22,6 +22,7 @@ And also 👇🏻
 
 #### iOS & macOS Apps
 
+- [🛩 Checklist for General Aviation](https://apps.apple.com/us/app/checklist-for-general-aviation/id1616540796): Your checklist on your cockpit iPad! - [🛩 Kneeboard for General Aviation](https://apps.apple.com/us/app/kneeboard-for-general-aviation/id1616539978): Paperless In-flight note-taking app for General Aviation Pilots
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recoder with PiP camera view and sound for reaction videos
 - [🤖 Machine](https://apps.apple.com/us/app/machine/id1601032749): Your new speech-to-text transcription assistant.
 - [📋 PasteBoard](https://github.com/stevenselcuk/PasteBoard): PasteBoard manager app with Finder Toolbar extension
