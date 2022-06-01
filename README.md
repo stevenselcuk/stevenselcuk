@@ -43,17 +43,6 @@ And also 👇🏻
 - [📦 react-native-get-values](https://github.com/stevenselcuk/react-native-get-values): Read values from your iOS & Android project config files in React Native
 
 
-### pre-defined Github things
-
-- [X] 🔭 I’m currently working on getting my FAA Airframe & Powerplant License with Private Pilot License
-- [X] 🌱 I’m currently learning Unity
-- [X] 👯 I’m looking to collaborate on [TBD]
-- [X] 🤔 I’m looking for help with Pomosh's open issues
-- [X] 💬 Ask me about aerospace, filmmaking, illustration.
-- [X] 📫 How to reach me: stevenjselcuk@gmail.com
-- [X] 😄 Pronouns: stee-vuh n jay SEL-juuk
-- [X] ⚡ Fun fact: I can talk about every single episode of CSI:LV and The X Files
-
 ### Favorite GIF
 
  <img
