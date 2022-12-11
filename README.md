@@ -15,7 +15,8 @@ And also 👇🏻
 
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) because why not?
 
-📍 Digital Nomad : Now on ultimate Balkan Tour. Are you too? Join us! DigitalNomad Community 👉🏻 [🧳 NomadKnows](https://nomadknows.com) 
+📍 Digital Nomad : Now on ultimate Balkan Tour. Are you too? Find me on  👉 [Facebook](https://www.facebook.com/stewieselcuk/)  |  [Instagram]([https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121](https://www.instagram.com/stevenselcuk/))  |  [Twitter]([https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121](https://twitter.com/hevalandsteven)) 
+
 
 ## Featured
 
