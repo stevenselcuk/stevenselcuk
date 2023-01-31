@@ -21,6 +21,9 @@ And also 👇🏻
 
 ## Featured
 
+#### Slack Apps
+
+- [⛵️ Volos: Daily Status Tracker](https://volos.tabbythecat.com/): Volos is a replacement for boring daily standups. Provides true async remote working for your team 
 
 #### iOS & macOS Apps
 
@@ -37,11 +40,11 @@ And also 👇🏻
 - [🍅 Pomosh](https://apps.apple.com/us/app/pomosh/id1515791898): Pomodoro Productivity Timer for iOS, macOS and WatchOS
 - [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game for iOS (only with Turkish Card Set)
 
-#### Projects
+#### Boilerplates
 
 - [🍸 Barmaid](https://github.com/stevenselcuk/Barmaid): SwiftUI ready macOS menubar app boilerplate. Based on Pomosh & REK. Just add water.
 
-#### React Native Packages
+#### Packages
 
 - [📦 react-native-app-promoter](https://github.com/stevenselcuk/react-native-app-promoter) Promote your "other" app with SKOverlay
 - [📦 react-native-ask-for-review](https://github.com/stevenselcuk/react-native-ask-for-review): Ask for ⭐️⭐️⭐️⭐️⭐️ nicely!
