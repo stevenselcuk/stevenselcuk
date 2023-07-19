@@ -15,7 +15,7 @@ And also 👇🏻
 
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) because why not?
 
-📍 Digital Nomad : Now on ultimate Balkan Tour. Are you too? Find me on  👉 [Facebook](https://www.facebook.com/stewieselcuk/)  | 
+📍 Digital Nomad: Now at 🇲🇹 Malta. Are you too? Find me on  👉 [Facebook](https://www.facebook.com/stewieselcuk/)  | 
 [Instagram](https://www.instagram.com/stevenselcuk/) |  [Twitter](https://twitter.com/hevalandsteven)
 
 
@@ -27,6 +27,8 @@ And also 👇🏻
 
 #### iOS & macOS Apps
 
+
+- [💪🏻 workforce](https://github.com/stevenselcuk/workforce): Humans have a finite supply of labor power. If you exceed your limit, burnout is inevitable. 
 - [💰 CurrencyBar Investment Ticker](https://apps.apple.com/us/app/currencybar-investment-ticker/id1640664960): Tired of crypto. Monitor your oldskull currency investments on your menubar 
 - [🤨 Is it down?](https://github.com/stevenselcuk/IsItDown): Is it down? Hope not.🤷‍♂️ Monitor your APIs & sites on your menubar. Free and opensource.
 - [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
