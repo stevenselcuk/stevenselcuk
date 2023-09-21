@@ -28,7 +28,7 @@ And also 👇🏻
 #### iOS & macOS Apps
 
 
-- [💪🏻 workforce](https://github.com/stevenselcuk/workforce): Humans have a finite supply of labor power. If you exceed your limit, burnout is inevitable. 
+- [💪🏻 workforce](https://tabbycat.lemonsqueezy.com/checkout/buy/209561c5-c06c-437e-9ece-e3fe83a1bd0d): Humans have a finite supply of labor power. If you exceed your limit, burnout is inevitable. 
 - [💰 CurrencyBar Investment Ticker](https://apps.apple.com/us/app/currencybar-investment-ticker/id1640664960): Tired of crypto. Monitor your oldskull currency investments on your menubar 
 - [🤨 Is it down?](https://github.com/stevenselcuk/IsItDown): Is it down? Hope not.🤷‍♂️ Monitor your APIs & sites on your menubar. Free and opensource.
 - [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
