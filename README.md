@@ -21,10 +21,6 @@ And also 👇🏻
 
 ## Featured
 
-#### Slack Apps
-
-- [⛵️ Volos: Daily Status Tracker](https://volos.tabbythecat.com/): Volos is a replacement for boring daily standups. Provides true async remote working for your team 
-
 #### iOS & macOS Apps
 
 
