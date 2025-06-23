@@ -1,7 +1,6 @@
 <div align="center">
-	<img src="https://imgur.com/XTV5t6I.png" height="200" />
+	<img src="https://i.imgur.com/2Pp6frR.png" height="200" />
 	<h1>Henlo fren 👋 It's Steven 😏</h1>
-	
 </div>
 <br>
 
@@ -9,7 +8,7 @@ I am <i>le développeur</i>, focused on creating General Aviation apps for pilot
 
 And also 👇🏻
 
-💼 I am deputy graveyard shift manager at [🐈 Tabby Cat](https://tabbythecat.com) 
+💼 I am the deputy graveyard shift manager at [🐈 Tabby Cat](https://tabbythecat.com) 
 
 📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
 
