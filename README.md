@@ -20,13 +20,18 @@ And also 👇🏻
 
 ## Featured
 
+### Some Devices
+
+- [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (for lvl.99 #avgeeks)
+
+
 #### iOS & macOS Apps
 
 
 - [💪🏻 workforce](https://tabbycat.lemonsqueezy.com/checkout/buy/209561c5-c06c-437e-9ece-e3fe83a1bd0d): Humans have a finite supply of labor power. If you exceed your limit, burnout is inevitable. 
 - [💰 CurrencyBar Investment Ticker](https://github.com/stevenselcuk/CurrencyBar): Tired of crypto. Monitor your old-school currency investments on your menubar 
 - [🤨 Is it down?](https://github.com/stevenselcuk/IsItDown): Is it down? Hope not.🤷‍♂️ Monitor your APIs & sites on your menubar. Free and open source.
-- [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers web devs! HEX forever!
+- [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recorder with PiP camera view and sound for reaction videos
 - [🤖 Machine](https://github.com/stevenselcuk/Machine): Your new speech-to-text transcription assistant.
 - [📋 PasteBoard](https://github.com/stevenselcuk/PasteBoard): PasteBoard manager app with Finder Toolbar extension
