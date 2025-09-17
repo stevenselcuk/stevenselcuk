@@ -27,6 +27,8 @@ And also 👇🏻
 
 #### iOS & macOS Apps
 
+
+- [🧹 VibeCleaner](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant
 - [🤨 Is it down?](https://github.com/stevenselcuk/IsItDown): Is it down? Hope not.🤷‍♂️ Monitor your APIs & sites on your menubar. Free and open source.
 - [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recorder with PiP camera view and sound for reaction videos
