@@ -20,7 +20,7 @@ And also 👇🏻
 
 ## Featured
 
-### Some Devices
+### Device/Gadget
 
 - [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (for lvl.99 #avgeeks)
 
