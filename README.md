@@ -46,7 +46,7 @@ And also 👇🏻
 
 #### iOS & macOS Apps
 
-- [💪🏻 workforce](https://tabbycat.lemonsqueezy.com/checkout/buy/209561c5-c06c-437e-9ece-e3fe83a1bd0d): Humans have a finite supply of labor power. If you exceed your limit, burnout is inevitable. 
+- [💪🏻 workforce](https://github.com/stevenselcuk/workforce): Humans have a finite supply of labor power. If you exceed your limit, burnout is inevitable. 
 - [💰 CurrencyBar Investment Ticker](https://github.com/stevenselcuk/CurrencyBar): Tired of crypto. Monitor your old-school currency investments on your menubar 
 - [🤖 Machine](https://github.com/stevenselcuk/Machine): Your new speech-to-text transcription assistant.
 - [📋 PasteBoard](https://github.com/stevenselcuk/PasteBoard): PasteBoard manager app with Finder Toolbar extension
