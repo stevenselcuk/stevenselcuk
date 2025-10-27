@@ -45,8 +45,8 @@ And also 👇🏻
 #### Developer Tools
 
 
-- [🧹 VibeCleaner for Xcode](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant (Swift/Paid)
-- [🧹 VibeCleaner for VSCode](https://marketplace.visualstudio.com/items?itemName=Tabby.tabbycat-vibecleaner): VS Code extension that cleans after your AI Assistant (JS/Free)
+- [🧹 VibeCleaner for Xcode](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant
+- [🧹 VibeCleaner for VSCode](https://marketplace.visualstudio.com/items?itemName=Tabby.tabbycat-vibecleaner): VS Code extension that cleans after your AI Assistant (.js version)
 
 
 ### Discontinued / Unmaintained / Legacy
