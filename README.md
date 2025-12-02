@@ -1,5 +1,4 @@
 <div align="center">
-	<img src="https://i.imgur.com/2Pp6frR.png" height="200" />
 	<h1>Henlo fren 👋 It's Steven 😏</h1>
 </div>
 <br>
@@ -74,7 +73,7 @@ And also 👇🏻
 ### Favorite GIF
 
  <img
-      src="https://github.com/stevenselcuk/stevenselcuk/blob/master/cat.gif"
+      src="https://i.imgur.com/AhsWI9q.gif"
       height="520"
       alt="🐈 "
       title="🐈 "
