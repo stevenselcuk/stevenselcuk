@@ -70,7 +70,7 @@ And also 👇🏻
 - [📦 react-native-ask-for-review](https://github.com/stevenselcuk/react-native-ask-for-review): Ask for ⭐️⭐️⭐️⭐️⭐️ nicely!
 - [📦 react-native-get-values](https://github.com/stevenselcuk/react-native-get-values): Read values from your iOS & Android project config files in React Native
 
-### Favorite GIF
+### Favorite GIF*
 
  <img
       src="https://i.imgur.com/AhsWI9q.gif"
@@ -79,4 +79,5 @@ And also 👇🏻
       title="🐈 "
     />
 
+*currently
 
