@@ -28,13 +28,13 @@ And also 👇🏻
 
 ### Device/Gadget
 
-- [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (for lvl.99 #avgeeks)
+- [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (ESP32 underhood for lvl.99 #avgeeks)
 
 
 #### iOS & macOS Apps
 
 
-
+- [💬ATFM](https://apps.apple.com/us/app/answer-this-for-me-ai/id6752925146): Answer This For me AI: Delegate answering messages, e-mail, reddit posts etc. to AI
 - [✈️HeadUp](https://apps.apple.com/us/app/headup-what-plane-is-this/id6752604170): What airplane is this? Widget-focused iOS App flight tracker for #avgeeks 
 - [🤨 Is it down?](https://github.com/stevenselcuk/IsItDown): Is it down? Hope not.🤷‍♂️ Monitor your APIs & sites on your menubar. Free and open source.
 - [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
