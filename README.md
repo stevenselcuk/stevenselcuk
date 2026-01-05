@@ -19,7 +19,7 @@ And also 👇🏻
 
 ## Featured
 
-## Aviation Suite
+### Aviation Suite
 
 
 - [✈️Checklist for Pilots](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
@@ -31,7 +31,7 @@ And also 👇🏻
 - [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (ESP32 underhood for lvl.99 #avgeeks)
 
 
-#### iOS & macOS Apps
+### iOS & macOS Apps
 
 
 - [💬ATFM](https://apps.apple.com/us/app/answer-this-for-me-ai/id6752925146): Answer This For me AI: Delegate answering messages, e-mail, reddit posts etc. to AI
@@ -41,7 +41,7 @@ And also 👇🏻
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recorder with PiP camera view and sound for reaction videos
 - [🐈 TabbyNote](https://apps.apple.com/us/app/tabbynote-micro-note-taking/id1555858947?ref=github): Micro note-taking app on your menubar for macOS
 
-#### Developer Tools
+### Developer Tools
 
 
 - [🧹 VibeCleaner for Xcode](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant
