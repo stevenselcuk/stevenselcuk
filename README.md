@@ -22,9 +22,9 @@ And also 👇🏻
 ## Aviation Suite
 
 
-- [✈️Checklist Lite](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
+- [✈️Checklist for Pilots](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
 - [✈️Kneeboard for Pilots](https://apps.apple.com/us/app/kneeboard-for-pilots/id6749446180): Missing in-flight note-taking app for your cockpit iPad
-- [✈️Part-66 Study](https://apps.apple.com/us/app/part-66-pro-easa-mock-exam/id6751455095): EASA Part-66 Study and Mock Exams
+- [✈️Part-66 Study](https://apps.apple.com/us/app/part-66-pro-easa-mock-exam/id6751455095): EASA Part-66 Study and Mock Exams for Aircraft Maintenance Engineers
 
 ### Device/Gadget
 
