@@ -23,7 +23,7 @@ And also 👇🏻
 
 
 
-- [✈️Radio COMM](https://apps.apple.com/us/app/radio-comm-training-for-pilots/id6754387548): AI ATC Simulator for Pilots / Structured Radio communication training
+- [✈️Radio COMM](https://apps.apple.com/us/app/radio-comm-training-for-pilots/id6754387548): AI ATC Simulator for Pilots. A safe place for pilots to make mistakes and learn with structured Radio communication training
 - [✈️Checklist for Pilots](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
 - [✈️Kneeboard for Pilots](https://apps.apple.com/us/app/kneeboard-for-pilots/id6749446180): Missing in-flight note-taking app for your cockpit iPad
 - [✈️Part-66 Study](https://apps.apple.com/us/app/part-66-pro-easa-mock-exam/id6751455095): EASA Part-66 Study and Mock Exams for Aircraft Maintenance Engineers
