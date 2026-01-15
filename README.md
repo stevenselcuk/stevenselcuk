@@ -28,6 +28,12 @@ And also 👇🏻
 - [✈️Kneeboard for Pilots](https://apps.apple.com/us/app/kneeboard-for-pilots/id6749446180): Missing in-flight note-taking app for your cockpit iPad
 - [✈️Part-66 Study](https://apps.apple.com/us/app/part-66-pro-easa-mock-exam/id6751455095): EASA Part-66 Study and Mock Exams for Aircraft Maintenance Engineers
 
+
+### Games
+
+- [⚠️The Hangar](https://hangar.tabbythecat.com/): Do you want to learn what happend MH370? You have to survive the shift. Text-based incremental RPG game for the web.
+
+
 ### Device/Gadget
 
 - [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (ESP32 underhood for lvl.99 #avgeeks)
