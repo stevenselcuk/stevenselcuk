@@ -56,7 +56,7 @@ And also 👇🏻
 - [🧹 VibeCleaner for VSCode](https://marketplace.visualstudio.com/items?itemName=Tabby.tabbycat-vibecleaner): VS Code extension that cleans after your AI Assistant (.js version)
 
 
-### Discontinued / Unmaintained / Legacy
+### Legacy
 
 #### iOS & macOS Apps
 
