@@ -69,7 +69,6 @@ And also 👇🏻
 - [💰 CurrencyBar Investment Ticker](https://github.com/stevenselcuk/CurrencyBar): Tired of crypto. Monitor your old-school currency investments on your menubar 
 - [🤖 Machine](https://github.com/stevenselcuk/Machine): Your new speech-to-text transcription assistant.
 - [📋 PasteBoard](https://github.com/stevenselcuk/PasteBoard): PasteBoard manager app with Finder Toolbar extension
-- [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://github.com/stevenselcuk/Pomosh-macOS): Pomodoro Productivity Timer for iOS, macOS and WatchOS
 
 #### Boilerplates
