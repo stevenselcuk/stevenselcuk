@@ -23,15 +23,15 @@ And also 👇🏻
 
 
 
-- [✈️Radio COMM](https://apps.apple.com/us/app/radio-comm-training-for-pilots/id6754387548): AI ATC Simulator for Pilots. A safe place for pilots to make mistakes and learn with structured Radio communication training
-- [✈️Checklist for Pilots](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
-- [✈️Kneeboard for Pilots](https://apps.apple.com/us/app/kneeboard-for-pilots/id6749446180): Missing in-flight note-taking app for your cockpit iPad
-- [✈️Part-66 Study](https://apps.apple.com/us/app/part-66-pro-easa-mock-exam/id6751455095): EASA Part-66 Study and Mock Exams for Aircraft Maintenance Engineers
+- [✈️ Radio COMM](https://apps.apple.com/us/app/radio-comm-training-for-pilots/id6754387548): AI ATC Simulator for Pilots. A safe place for pilots to make mistakes and learn with structured Radio communication training
+- [✈️ Checklist for Pilots](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
+- [✈️ Kneeboard for Pilots](https://apps.apple.com/us/app/kneeboard-for-pilots/id6749446180): Missing in-flight note-taking app for your cockpit iPad
+- [✈️ Part-66 Study](https://apps.apple.com/us/app/part-66-pro-easa-mock-exam/id6751455095): EASA Part-66 Study and Mock Exams for Aircraft Maintenance Engineers
 
 
 ### Games
 
-- [⚠️The Hangar](https://hangar.tabbythecat.com/) [[Repo](https://github.com/stevenselcuk/thehangar)]: Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
+- [⚠️ The Hangar](https://hangar.tabbythecat.com/) [[Repo](https://github.com/stevenselcuk/thehangar)]: Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
 
 
 ### Device/Gadget
@@ -42,8 +42,8 @@ And also 👇🏻
 ### iOS & macOS Apps
 
 
-- [💬ATFM](https://apps.apple.com/us/app/answer-this-for-me-ai/id6752925146): Answer This For me AI: Delegate answering messages, e-mail, reddit posts etc. to AI
-- [✈️HeadUp](https://apps.apple.com/us/app/headup-what-plane-is-this/id6752604170): What airplane is this? Widget-focused iOS App flight tracker for #avgeeks 
+- [💬 ATFM](https://apps.apple.com/us/app/answer-this-for-me-ai/id6752925146): Answer This For me AI: Delegate answering messages, e-mail, reddit posts etc. to AI
+- [✈️ HeadUp](https://apps.apple.com/us/app/headup-what-plane-is-this/id6752604170): What airplane is this? Widget-focused iOS App flight tracker for #avgeeks 
 - [🤨 Is it down?](https://github.com/stevenselcuk/IsItDown): Is it down? Hope not.🤷‍♂️ Monitor your APIs & sites on your menubar. Free and open source.
 - [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recorder with PiP camera view and sound for reaction videos
