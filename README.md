@@ -31,7 +31,7 @@ And also 👇🏻
 
 ### Games
 
-- [⚠️The Hangar](https://hangar.tabbythecat.com/) [[⚠️The Hangar](https://github.com/stevenselcuk/thehangar)]: Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
+- [⚠️The Hangar](https://hangar.tabbythecat.com/) [[Repo](https://github.com/stevenselcuk/thehangar)]: Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
 
 
 ### Device/Gadget
@@ -48,6 +48,11 @@ And also 👇🏻
 - [🌈 Kotor Color Picker](https://apps.apple.com/us/app/kotor-color-picker/id1626508161): Grab colors & save for later. For designers, web devs! HEX forever!
 - [📼 Rek](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930): Screen recorder with PiP camera view and sound for reaction videos
 - [🐈 TabbyNote](https://apps.apple.com/us/app/tabbynote-micro-note-taking/id1555858947?ref=github): Micro note-taking app on your menubar for macOS
+
+
+### Packages/Plugins
+
+- [vite-plugin-version-bumper](https://www.npmjs.com/package/vite-plugin-version-bumper) [[Repo](https://github.com/stevenselcuk/vite-plugin-version-bumper)]: Bump your hardcoded version suffix/prefixes before getting built. Exclusively for Vite. I like vite.
 
 ### Developer Tools
 
