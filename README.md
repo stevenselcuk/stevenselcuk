@@ -71,7 +71,6 @@ And also 👇🏻
 - [📋 PasteBoard](https://github.com/stevenselcuk/PasteBoard): PasteBoard manager app with Finder Toolbar extension
 - [✍🏻 PenClip](https://apps.apple.com/us/app/penclip/id1526811408): Drawing app for iOS
 - [🍅 Pomosh](https://github.com/stevenselcuk/Pomosh-macOS): Pomodoro Productivity Timer for iOS, macOS and WatchOS
-- [🥳 Anlat Bakalım](https://apps.apple.com/us/app/anlat-bakal%C4%B1m/id1526011547): The Word-guessing Game for iOS (only with Turkish Card Set)
 
 #### Boilerplates
 
