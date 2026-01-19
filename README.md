@@ -90,5 +90,5 @@ And also 👇🏻
       title="🐈 "
     />
 
-*currently
+* just for now, until another cat shows up
 
