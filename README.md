@@ -52,7 +52,7 @@ And also 👇🏻
 
 ### Packages/Plugins
 
-- [vite-plugin-version-bumper](https://www.npmjs.com/package/vite-plugin-version-bumper) [[Repo](https://github.com/stevenselcuk/vite-plugin-version-bumper)]: Bump your hardcoded version suffix/prefixes before getting built. Not exclusively for Vite. Husky ready. I'm using the Hangar nightly builds to easy bump.
+- [🔢 vite-plugin-version-bumper](https://www.npmjs.com/package/vite-plugin-version-bumper) [[Repo](https://github.com/stevenselcuk/vite-plugin-version-bumper)]: Bump your hardcoded version suffix/prefixes before getting built. Not exclusively for Vite. Husky ready. I'm using the Hangar nightly builds to easy bump.
 
 ### Developer Tools
 
