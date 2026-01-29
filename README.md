@@ -52,11 +52,12 @@ And also 👇🏻
 
 ### Packages/Plugins
 
-- [vite-plugin-version-bumper](https://www.npmjs.com/package/vite-plugin-version-bumper) [[Repo](https://github.com/stevenselcuk/vite-plugin-version-bumper)]: Bump your hardcoded version suffix/prefixes before getting built. Not exclusively for Vite. Husky ready.
+- [vite-plugin-version-bumper](https://www.npmjs.com/package/vite-plugin-version-bumper) [[Repo](https://github.com/stevenselcuk/vite-plugin-version-bumper)]: Bump your hardcoded version suffix/prefixes before getting built. Not exclusively for Vite. Husky ready. I'm using the Hangar nightly builds to easy bump.
 
 ### Developer Tools
 
 
+- [AutoVid](https://github.com/stevenselcuk/AutoVid): Recording automated & programmatic AppStore Preview Videos with [AutoVidSDK](https://github.com/stevenselcuk/AutovidSDK) tests for your iOS Apps
 - [🧹 VibeCleaner for Xcode](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant
 - [🧹 VibeCleaner for VSCode](https://marketplace.visualstudio.com/items?itemName=Tabby.tabbycat-vibecleaner): VS Code extension that cleans after your AI Assistant (.js version)
 
