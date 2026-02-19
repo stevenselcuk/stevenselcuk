@@ -56,7 +56,7 @@ And also 👇🏻
 
 ### Developer Tools
 
-- [◄──► Steven's json-diff](https://github.com/stevenselcuk/json-diff): High-performace json-diff cli tool for big JSON files >500MB. I created it for my wife.
+- [◄─► Steven's json-diff](https://github.com/stevenselcuk/json-diff): High-performace json-diff cli tool for big JSON files >500MB. I created it for my wife.
 - [📱 AutoVid](https://github.com/stevenselcuk/AutoVid): Recording automated & programmatic AppStore Preview Videos with [AutoVidSDK](https://github.com/stevenselcuk/AutovidSDK) tests for your iOS Apps
 - [🤖 AutoVidSDK](https://github.com/stevenselcuk/AutovidSDK): Write tests with more human-like interactions to creating "Cinematic" AppStore Videos (created for [AutoVid](https://github.com/stevenselcuk/AutoVid))
 - [🧹 VibeCleaner for Xcode](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant
