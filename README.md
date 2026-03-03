@@ -31,7 +31,7 @@ And also 👇🏻
 
 ### Games
 
-- [⚠️ The Hangar](https://hangar.tabbythecat.com/) [Repo](https://github.com/stevenselcuk/thehangar):  Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
+- [⚠️ The Hangar](https://hangar.tabbythecat.com/):  Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
 - [⏹️ web](https://onelittlemistake.tabbythecat.com/) | [⏹️ iOS*](https://onelittlemistake.tabbythecat.com/) That One Little Mistake is reversible, just like in life.
 
 ### Device/Gadget
