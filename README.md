@@ -61,6 +61,7 @@ And also 👇🏻
 - [🤖 AutoVidSDK](https://github.com/stevenselcuk/AutovidSDK): Write tests with more human-like interactions to creating "Cinematic" AppStore Videos (created for [AutoVid](https://github.com/stevenselcuk/AutoVid))
 - [🧹 VibeCleaner for Xcode](https://apps.apple.com/us/app/vibecleaner/id6752489272): Xcode extension that cleans after your AI Assistant
 - [🧹 VibeCleaner for VSCode](https://marketplace.visualstudio.com/items?itemName=Tabby.tabbycat-vibecleaner): VS Code extension that cleans after your AI Assistant (.js version)
+- [🧹 VibeCleaner CLI](https://github.com/stevenselcuk/VibeCleaner-CLI): Comment cleaning CLI tool for JS universe. Clean after your agentic dude.
 
 
 ### Legacy
