@@ -22,7 +22,7 @@ And also 👇🏻
 ### Aviation Suite
 
 
-
+- [✈️ MentalMath for Pilots](https://apps.apple.com/us/app/mental-math-for-pilots/id6759334830): Mental Math for Pilots is the only training app designed specifically to bridge the gap between "knowing the formula" and "executing under pressure."
 - [✈️ Radio COMM](https://apps.apple.com/us/app/radio-comm-training-for-pilots/id6754387548): AI ATC Simulator for Pilots. A safe place for pilots to make mistakes and learn with structured Radio communication training
 - [✈️ Checklist for Pilots](https://apps.apple.com/us/app/checklist-lite/id6749446024): Go Paperless Cockpit! Fully. Abbreviated digital checklist for Electronic Flight Bags
 - [✈️ Kneeboard for Pilots](https://apps.apple.com/us/app/kneeboard-for-pilots/id6749446180): Missing in-flight note-taking app for your cockpit iPad
