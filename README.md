@@ -34,6 +34,13 @@ And also 👇🏻
 - [⚠️ The Hangar](https://hangar.tabbythecat.com/):  Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
 - [⏹️ One Little Mistake](https://onelittlemistake.tabbythecat.com/) | [Chrome Ext](https://chromewebstore.google.com/detail/one-little-mistake/hkpdjognnjlfdodllndjmijkikanfcli) | [iOS](https://apps.apple.com/us/app/one-little-mistake/id6759854640) That One Little Mistake is irreversible, just like in real life. A game unlocks core memory for millennials.
 
+
+### Chrome Extensions
+
+- [🛑 LinkedIn Noise Filter](https://chromewebstore.google.com/detail/linkedin-noise-filter/olcijplonjknongaipcapncdkikledcc): Do you want to block a company? Eliminate noise and reach legit jobs.
+  
+
+
 ### Device/Gadget
 
 - [✈️ nearPlane ADS-B Tracker](https://github.com/stevenselcuk/nearPlane): see what's flying overhead with StickC Plus2 (ESP32 underhood for lvl.99 #avgeeks)
