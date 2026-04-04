@@ -37,6 +37,8 @@ And also 👇🏻
 
 ### Chrome Extensions
 
+
+- [⚡️ Stashee](https://chromewebstore.google.com/detail/stashee/nfopfjkglfggdiofdcjoifkhljlfgcnh): Skill & Prompt Manager for AI Web UIs. Store, organize, and inject prompts into ChatGPT, Claude, Gemini, and more.
 - [🛑 LinkedIn Noise Filter](https://chromewebstore.google.com/detail/linkedin-noise-filter/olcijplonjknongaipcapncdkikledcc): Do you want to block a company? Eliminate noise and reach legit jobs.
   
 
