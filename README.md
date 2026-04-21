@@ -9,7 +9,7 @@ And also 👇🏻
 
 💼 I am the deputy graveyard shift manager at [🐈 Tabby Cat](https://tabbythecat.com) 
 
-📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) 👈 
+📱 ⌚️ 💻 I have some iOS & macOS app for you 👉 [check'em all on App Store](https://apps.apple.com/us/developer/selcuk-dolapci/id1509031121) and also some Android Apps too  👉 [Go Google Play](https://play.google.com/store/apps/dev?id=5993984403274780448).
 
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) because why not?
 
