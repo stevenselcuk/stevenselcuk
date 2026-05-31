@@ -13,7 +13,7 @@ And also 👇🏻
 
 🤔 Let's connect on [LinkedIn](https://www.linkedin.com/in/stevenselcuk/) because why not?
 
-📍 Digital Nomad: Now at 🇬🇷 Greece. Are you too? Find me on  👉 [Facebook](https://www.facebook.com/stewieselcuk/)  | 
+📍 Livin in NL. Are you too? Find me on  👉 [Facebook](https://www.facebook.com/stewieselcuk/)  | 
 [Instagram](https://www.instagram.com/stevenselcuk/)
 
 
