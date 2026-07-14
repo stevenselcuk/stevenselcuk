@@ -32,7 +32,7 @@ And also 👇🏻
 ### Games
 
 - [⚠️ The Hangar](https://hangar.tabbythecat.com/):  Do you want to learn what happened MH370? You have to survive the shift first. Text-based incremental RPG game for the browser.
-- [⏹️ One Little Mistake](https://onelittlemistake.tabbythecat.com/) | [Chrome Ext](https://chromewebstore.google.com/detail/one-little-mistake/hkpdjognnjlfdodllndjmijkikanfcli) | [iOS](https://apps.apple.com/us/app/one-little-mistake/id6759854640) That One Little Mistake is irreversible, just like in real life. A game unlocks core memory for millennials.
+- [⏹️ One Little Mistake](https://onelittlemistake.tabbythecat.com/) | [Chrome Ext](https://chromewebstore.google.com/detail/one-little-mistake/hkpdjognnjlfdodllndjmijkikanfcli) | [iOS](https://apps.apple.com/us/app/one-little-mistake/id6759854640) | [Android](https://play.google.com/store/apps/details?id=com.tabbycat.game.onelittlemistake) | [Web](https://onelittlemistake.tabbythecat.com/) That One Little Mistake is irreversible, just like in real life. A game unlocks core memory for millennials.
 
 
 ### Chrome Extensions
