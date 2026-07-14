@@ -96,11 +96,11 @@ And also 👇🏻
 ### Favorite GIF*
 
  <img
-      src="https://i.imgur.com/AhsWI9q.gif"
+      src="https://i.imgur.com/Yb6JWtp.gif"
       height="520"
       alt="🐈 "
       title="🐈 "
     />
 
-* just for now, until another cat shows up
+* GIF updated. Summer'26. Netherlands
 
